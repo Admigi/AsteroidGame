@@ -1,6 +1,7 @@
 package asteroidGame;
 
 import javafx.geometry.Point2D;
+import javafx.scene.paint.Color;
 import javafx.scene.shape.Polygon;
 import javafx.scene.shape.Shape;
 
@@ -13,9 +14,9 @@ public abstract class Character {
     Point2D movement;
     Boolean alive;
 
-    public void setColor(javafx.scene.paint.Color color) {
+    public void setColor(Color color) {
         this.character.setFill(color);
-        this.character.setStroke(javafx.scene.paint.Color.WHITE);
+        this.character.setStroke(Color.WHITE);
         this.character.setStrokeWidth(1.5);
     }
 
