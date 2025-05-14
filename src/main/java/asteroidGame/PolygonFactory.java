@@ -23,10 +23,7 @@ public class PolygonFactory {
                 -1 * size * c2, size * s2,
                 size * c1, size * s1);
 
-        for (int i = 0; i < polygon.getPoints().size(); i++) {
-            int change = rnd.nextInt(5) - 2;
-            polygon.getPoints().set(i, polygon.getPoints().get(i) + change);
-        }
+        polygon.getPoints().replaceAll(aDouble -> aDouble + rnd.nextInt(5) - 2);
 
         return polygon;
     }

@@ -2,11 +2,10 @@ package asteroidGame;
 
 import java.util.Random;
 import javafx.scene.paint.Color;
-import javafx.scene.shape.Polygon;
 
 public class Asteroid extends Character {
 
-    private double rotationalMovement;
+    private final double rotationalMovement;
 
     public Asteroid(int x, int y) {
         super(new PolygonFactory().createPolygon(), x, y);

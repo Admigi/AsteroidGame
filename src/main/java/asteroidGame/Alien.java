@@ -10,8 +10,8 @@ import static asteroidGame.AsteroidsApplication.WIDTH;
 public class Alien extends Character {
 
     private long lastShotTime;
-    private long shootingInterval;
-    private Ship targetShip;
+    private final long shootingInterval;
+    private final Ship targetShip;
 
     public Alien(int x, int y, Ship targetShip) {
         super(createPolygon(), x, y);
