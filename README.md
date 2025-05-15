@@ -8,19 +8,19 @@
   <table>
     <tr>
       <td align="center">
-        <img src="images/asteroids-menu.png" width="300" alt="Game Start Screen">
+        <img src="src/main/resources/imagesasteroids-menu.png" width="300" alt="Game Start Screen">
         <br>
         <em>Start Screen - Ready for takeoff!</em>
       </td>
       <td align="center">
-        <img src="images/asteroids-game.png" width="300" alt="Action Gameplay">
+        <img src="src/main/resources/imagesasteroids-game.png" width="300" alt="Action Gameplay">
         <br>
         <em>In-game action - Fight aliens and destroy asteroids</em>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="images/asteroids-game-over.png" width="300" alt="Game Over Screen">
+        <img src="src/main/resources/imagesasteroids-game-over.png" width="300" alt="Game Over Screen">
         <br>
         <em>Game Over - Try to beat your high score!</em>
       </td>
