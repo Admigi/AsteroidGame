@@ -33,4 +33,4 @@
 - Classic retro-style space shooter gameplay
 - Navigate your ship through dangerous asteroid fields
 - Defend against hostile alien ships that try to shoot you down
-- Authentic retro sound effects and visuals
+- Authentic retro sound effects
