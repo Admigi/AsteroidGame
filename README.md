@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="src/main/resources/images/asteroids-game-over.png" width="600" alt="Game Over Screen">
+        <img src="src/main/resources/images/asteroids-game-over.png" width="500" alt="Game Over Screen">
         <br>
         <em>Game Over - Try to beat your high score!</em>
       </td>
