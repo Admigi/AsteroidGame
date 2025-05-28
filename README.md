@@ -1,3 +1,5 @@
+[![jp](https://img.shields.io/badge/LANG-JP-red.svg)](https://github.com/Admigi/AsteroidGame/blob/master/README.jp.md)
+
 # Asteroids Game
 
 > A simple retro asteroids game made with JavaFX. Navigate through space, destroy asteroids, and battle alien enemy ships trying to shoot you down. Can you survive the cosmic onslaught and achieve the highest score?
