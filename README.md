@@ -4,7 +4,7 @@
 
 > A simple retro asteroids game made with JavaFX. Navigate through space, destroy asteroids, and battle alien enemy ships trying to shoot you down. Can you survive the cosmic onslaught and achieve the highest score?
 
-## Screenshots
+## 📸 Screenshots
 
 <div align="center">
   <table>
@@ -30,7 +30,7 @@
   </table>
 </div>
 
-## Game Features
+## 🎮 Game Features
 
 - Classic retro-style space shooter gameplay
 - Navigate your ship through dangerous asteroid fields
